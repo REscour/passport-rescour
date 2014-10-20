@@ -34,7 +34,7 @@ describe('Strategy#userProfile', function() {
       it('should parse profile', function() {
         expect(profile.provider).to.equal('rescour');
         expect(profile.id).to.equal('500308595');
-        expect(profile.username).to.equal('spencerapplegate');
+        // expect(profile.username).to.equal('spencerapplegate');
       });
     });
   });
@@ -68,7 +68,7 @@ describe('Strategy#userProfile', function() {
       it('should parse profile', function() {
         expect(profile.provider).to.equal('rescour');
         expect(profile.id).to.equal('500308595');
-        expect(profile.username).to.equal('spencerapplegate');
+        // expect(profile.username).to.equal('spencerapplegate');
       });
     });
   });
@@ -102,7 +102,7 @@ describe('Strategy#userProfile', function() {
       it('should parse profile', function() {
         expect(profile.provider).to.equal('rescour');
         expect(profile.id).to.equal('500308595');
-        expect(profile.username).to.equal('spencerapplegate');
+        // expect(profile.username).to.equal('spencerapplegate');
       });
     });
   });
@@ -136,7 +136,7 @@ describe('Strategy#userProfile', function() {
       it('should parse profile', function() {
         expect(profile.provider).to.equal('rescour');
         expect(profile.id).to.equal('500308595');
-        expect(profile.username).to.equal('spencerapplegate');
+        // expect(profile.username).to.equal('spencerapplegate');
       });
     });
   });

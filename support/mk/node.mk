@@ -1,8 +1,8 @@
 node_modules:
-	npm install
+		npm install
 
 clobber-node:
-	rm -rf node_modules
+		rm -rf node_modules
 
 
 .PHONY: clobber-node

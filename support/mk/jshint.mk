@@ -1,10 +1,10 @@
 JSHINT ?= jshint
 
 lint-jshint:
-	$(JSHINT) $(SOURCES)
+		$(JSHINT) $(SOURCES)
 
 lint-tests-jshint:
-	$(JSHINT) $(TESTS)
+		$(JSHINT) $(TESTS)
 
 
 .PHONY: lint-jshint lint-tests-jshint

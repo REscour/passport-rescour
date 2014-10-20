@@ -1,26 +1,26 @@
 {
-  "name": "passport-facebook",
-  "version": "1.0.3",
-  "description": "Facebook authentication strategy for Passport.",
+  "name": "passport-rescour",
+  "version": "0.0.1",
+  "description": "REscour authentication strategy for Passport.",
   "keywords": [
     "passport",
-    "facebook",
+    "rescour",
     "auth",
     "authn",
     "authentication",
     "identity"
   ],
   "author": {
-    "name": "Jared Hanson",
-    "email": "jaredhanson@gmail.com",
-    "url": "http://www.jaredhanson.net/"
+    "name": "Spencer Applegate",
+    "email": "spencer@rescour.com",
+    "url": "http://rescour.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jaredhanson/passport-facebook.git"
+    "url": "git://github.com/REscour/passport-rescour.git"
   },
   "bugs": {
-    "url": "http://github.com/jaredhanson/passport-facebook/issues"
+    "url": "http://github.com/REscour/passport-rescour/issues"
   },
   "licenses": [
     {
